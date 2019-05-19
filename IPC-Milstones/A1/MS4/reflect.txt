@@ -1,0 +1,13 @@
+Name: Anh-Bang Truong (Ethan)
+ID: 124753179
+
+1- if we were having another funtion to display the contact having struct contact will
+make it easier to make that funtion instead of having to use each struct to print each
+information.
+
+2- wrong syntax is still one of the problem i got. like using *ptr instead of (*ptr),
+when you have "&" in scanf and when u dont need it and so on.
+
+3- i finish all the general stuff in 3-4hours but having to wait a few days to ask 
+teachers for some problem i had.
+

@@ -1,0 +1,9 @@
+Name: Anh-Bang Truong (Ethan)
+ID: 124753179
+
+3- findContactIndex: help find the index in the array by comparing 2 strings, if the 
+string match return the index, else return -1
+
+4- i learn that for string we need a special liabary and syntax to compare, to
+change,.... I learn to call an funtion inside a funtion we need to give the array or 
+first array (not the address). i also improve my debug skill slightly.

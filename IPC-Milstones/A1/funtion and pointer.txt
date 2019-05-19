@@ -1,0 +1,30 @@
+#inlcude <stdio.h>
+
+double calcArea1 (double width, double height)
+{
+	result = width * height;
+	return result;
+}
+
+
+void calcArea2 (double *widPtr, double *heiPtr, double *result2Ptr)
+{
+	*resultPtr = (*widPtr) * (*heiPtr);
+}
+
+
+int main()
+{	
+	double width = 1;
+	double height = 2;
+	double result1;
+	double result2;
+	
+	result1 = calcArea1(width, height);
+	calcArea2(&width, &height, &result2);
+
+	print result1
+	print result2
+
+	return 0;
+}

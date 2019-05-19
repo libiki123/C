@@ -1,0 +1,4 @@
+﻿  contactHelpers.c
+d:\school\ipc144\ipc-milstones\a2\ms2\contacthelpers.c(114): warning C4033: 'yes' must return a value
+d:\school\ipc144\ipc-milstones\a2\ms2\contacthelpers.c(115): warning C4715: 'yes': not all control paths return a value
+  A2MS2.vcxproj -> D:\School\IPC144\IPC-Milstones\A2\MS2\Debug\A2MS2.exe

@@ -1,0 +1,14 @@
+Name: Anh-Bang Truong (Ethan)
+ID: 124753179
+
+1) This index is 10 because the highest number of days is 10. If we put the index under it
+won't have enough capacity to store all the value or over would be a waste of memory.
+
+2) Array gives you the advantage of storing multiple values in a single variable. However, 
+you are unable to see though values if you do not know them from the beginning. Moreover,
+it's more complicated compared to the normal declaration.
+
+3) I think the homework part requires a very good understanding of the subject we studied 
+that make it hard but rewarding when finished. Still I myself can only finish 80-90% the 
+at home part most of the time which make the last 10-20% extremely frustrating for me.
+

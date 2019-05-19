@@ -1,0 +1,13 @@
+Name: Anh-Bang Truong
+ID: 124753179
+
+1.
+- funtions are like part of your body and main funtion is the brain. The brain control
+the whole body and funtions as in legs, arms... give the brain access as control it at
+will. funtions give the the brain power to do things it cant do itself.
+- we need funtions b/c it keep our code oraganize and easy to read and like our body
+the brain itself cant do everything that when funtions come in to help the brain do it.
+
+2. as we learn from the text book we want to keep everything organized and things that
+are more relate to each other close and things that isnt connect seperate, this help our
+code easier too read as well as fixing it.

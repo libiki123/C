@@ -1,0 +1,14 @@
+﻿  contactHelpers.c
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(347): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[11]'
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(347): warning C4024: 'getTenDigitPhone': different types for formal and actual parameter 1
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(348): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(348): warning C4024: 'findContactIndex': different types for formal and actual parameter 2
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(348): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[11]'
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(348): warning C4024: 'findContactIndex': different types for formal and actual parameter 3
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(430): warning C4047: 'function': 'char *' differs in levels of indirection from 'char (*)[11]'
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(430): warning C4024: 'getTenDigitPhone': different types for formal and actual parameter 1
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(431): warning C4047: 'function': 'int' differs in levels of indirection from 'int *'
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(431): warning C4024: 'findContactIndex': different types for formal and actual parameter 2
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(431): warning C4047: 'function': 'const char *' differs in levels of indirection from 'char (*)[11]'
+d:\school\ipc144\ipc-milstones\a2\ms4\contacthelpers.c(431): warning C4024: 'findContactIndex': different types for formal and actual parameter 3
+  A2MS4.vcxproj -> D:\School\IPC144\IPC-Milstones\A2\MS4\Debug\A2MS4.exe

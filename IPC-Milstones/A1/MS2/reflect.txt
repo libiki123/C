@@ -1,0 +1,9 @@
+Name: Anh-Bang Truong (Ethan)
+ID: 124753179
+
+1-  i think there are more efficient ways. In my opinion, we can get the user information
+by merging the full name, address and lets the user enter at once.
+
+2- In oder to determine the length of string we need a terminator '\0' at the end of
+string, so with a 7 characters word we will have the 7 character + '\0' = 8 index in 
+total.

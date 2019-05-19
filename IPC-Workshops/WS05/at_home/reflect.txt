@@ -1,0 +1,11 @@
+Anh-Bang Truong (Ethan)
+ID: 124753179
+
+1) I think in most situation array of struct is much better than parallel array. Array
+of struct is easier to manage since it a combination of array you dont to deal with one 
+by one changes. secondly, if you want to full out the information from struct its also
+fast than doing one by one with parallel array.
+
+2) Since program is running from top to bottom, its better to declare struct on top since
+it clarify about what you prepare and want to do with your program. It also help others
+read your code.
